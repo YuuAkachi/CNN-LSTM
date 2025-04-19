@@ -131,6 +131,7 @@ dependencies = [
     { name = "ipykernel" },
     { name = "keras" },
     { name = "matplotlib" },
+    { name = "numpy" },
     { name = "tensorflow" },
 ]
 
@@ -139,6 +140,7 @@ requires-dist = [
     { name = "ipykernel" },
     { name = "keras" },
     { name = "matplotlib" },
+    { name = "numpy" },
     { name = "tensorflow" },
 ]
 
